@@ -49,6 +49,7 @@ An end-to-end SQL project focused on preparing raw layoffs data and exploring pa
 
 📁 **Project:**  
 📁https://github.com/https://github.com/Rohit-Agarwal11/SQL-World-Layoffs-Analysis-
+https://github.com/Rohit-Agarwal11/SQL-World-Layoffs-Analysis-
 
 ---
 
